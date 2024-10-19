@@ -1,0 +1,39 @@
+{
+  "produtos": [
+    {
+      "nome": "pastel grande",
+      "peso": "0.500",
+      "preço": "7.50",
+      "descrição": "20 folhas",
+      "id": "5a9dd17f-53f0-4314-8c9e-c150d5ec800d"
+    },
+    {
+      "nome": "pastel pequeno",
+      "peso": "0.300",
+      "preço": "4.50",
+      "descrição": "20 folhas",
+      "id": "10cc3e47-5be7-439b-a6df-5cbb7bc4bbc2"
+    },
+    {
+      "nome": "pastel degustação",
+      "peso": "0.300",
+      "preço": "4.50",
+      "descrição": "20 folhas",
+      "id": "5aac96a2-b082-4941-84ba-d6680d46d9bb"
+    },
+    {
+      "nome": "pastel bananada",
+      "peso": "0.600",
+      "preço": "6.50",
+      "descrição": "20 folhas",
+      "id": "6cc2a428-23b3-4e61-bf44-f6d630f700d9"
+    },
+    {
+      "nome": "pizza",
+      "peso": "0.200",
+      "preço": "3.50",
+      "descrição": "pizza",
+      "id": "724b7837-c5b4-43c2-a14f-4475e063b4bb"
+    }
+  ]
+}
