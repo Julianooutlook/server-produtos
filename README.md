@@ -1,0 +1,3 @@
+O projeto tem como objetivo complementar a construção de APIs e o projeto  apresentado em aula ao vivo, aprofundando o aprendizado adquirido no módulo. 
+Nesta tarefa, você deverá modificar a estrutura do projeto apresentado, aplicando  conceitos de persistência de dados, validação e documentação.
+Será necessário  criar novas entidades de dados, diferentes de "items", e adaptar as funções para essas novas estruturas. Além disso, você deverá implementar validações  específicas de acordo com a nova entidade criada, ajustando as regras de negócio conforme o contexto. Essas modificações irão reforçar sua compreensão  sobre os módulos nativos do Node.js, como o fsLinks to an external site. , além de explorar boas práticas de validação e organização de código em APIs.
