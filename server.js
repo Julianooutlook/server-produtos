@@ -17,7 +17,6 @@ app.use(express.json());
 
 app.get('/', (req, res) => {
     res.send('Api Do pastel de flango');
-    next();
 });
 
 app.post('/login', (request, response, next) => {
