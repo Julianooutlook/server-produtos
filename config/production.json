@@ -1,0 +1,6 @@
+{
+    "jwt": {
+        "secret": "chaveSecretaDeProducaoSuperSegura",
+        "expiresIn": "1h"
+    }
+}
